@@ -17,5 +17,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="waddingtonf-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/72229419/177651469-c9c90946-3def-42dd-a76b-cce546046aa9.png)>
+  <img align="right" alt="waddingtonf-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/72229419/177651469-c9c90946-3def-42dd-a76b-cce546046aa9.png)"
 </div>
