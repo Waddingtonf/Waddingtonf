@@ -20,9 +20,9 @@
   <img align="right" alt="waddingtonf-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72229419/177651469-c9c90946-3def-42dd-a76b-cce546046aa9.png"
 </div>
    
-    ##
+##
    
- <div> 
+<div> 
   <a href="https://www.youtube.com/channel/UC1kYjZa0mKBDqCDdnVmrteQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/uodditu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:waddingtonf@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
