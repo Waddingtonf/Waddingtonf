@@ -5,4 +5,3 @@
 - 🌱 Eu curso e estudo o desenvolvimento FullStack (FrontEnd e Python)
 - 📫 Contate-me pelo: waddingtonf@outlook.com
 - ⚡ Fato Curioso: Estudo programação desde novo e aprendi a desenvolver com c++, hoje não lembro nada :D.
--->
