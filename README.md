@@ -1,4 +1,4 @@
-### Olá, Eu sou Waddington Freitas! Aspirante a FullStack, e um desocupado FrontEnd 👋
+### Olá, Eu sou Waddington Freitas! Aspirante a FullStack, e um desocupado Desenvolvedor FrontEnd 👋
 
 ##
 
